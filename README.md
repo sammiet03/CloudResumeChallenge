@@ -6,6 +6,8 @@ The **Cloud Resume Challenge** is a hands-on project designed to demonstrate clo
 
 In this version of the project, we will initially start by **manually provisioning** the required AWS resources, and later, we will transition to **managing everything with Terraform**. By completing this challenge, you'll learn to leverage AWS services, serverless technologies, and best practices in security and automation.
 
+### Check out my [Website](https://cloudywithsam.com/)
+
 ### 📁 Project Features
 - **Static Website Hosting** – The resume is built using HTML, CSS, and JavaScript and is hosted on Amazon S3 as a static website.
 - **Content Delivery Network (CDN)** – Amazon CloudFront is used to enhance performance and security.
